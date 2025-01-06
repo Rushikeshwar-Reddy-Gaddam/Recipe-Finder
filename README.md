@@ -1,1 +1,2 @@
 # Recipe-Finder
+Recipe Finder is a Python-based application with a user-friendly Tkinter GUI and a MySQL backend. It enables users to discover personalized recipes based on their ingredients, preferences, and skill levels. Key features include secure user authentication with email verification, efficient algorithms for recipe suggestions, and optimized performance to support multiple concurrent users.
